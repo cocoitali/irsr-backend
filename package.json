@@ -5,7 +5,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js",
-    "server": "nodemon"
+    "server": "nodemon index.js"
   },
   "repository": "https://github.com/pt-pilot-buildweek-rural-school-report/irsr-backend.git",
   "author": "cocoitali <cmburatto@gmail.com>",
